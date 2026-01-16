@@ -28,3 +28,9 @@ Criar um conteúdo “natty” com IA exigiu mais do que apenas gerar texto auto
 
 ### Fontes:
 Video Youtube - Canal Gamera: https://youtu.be/LRPOZrjwShk
+
+## ✨ Autora do fork
+Vitória Alvares dos Santos 
+### Contatos:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitória-alvares/)  
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:Alvares26Sa@proton.me)  
