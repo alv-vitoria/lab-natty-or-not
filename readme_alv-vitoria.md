@@ -20,5 +20,5 @@ O resultado final é um áudio curto, com tom crítico e linguagem natural, que 
 ## 💭 Reflexão
 Criar um conteúdo “natty” com IA exigiu mais do que apenas gerar texto automaticamente. Foi necessário orientar bem a IA, ajustar o tom e pensar no público final, mostrando que a qualidade do resultado depende diretamente da forma como interagimos com as ferramentas generativas.
 
-###Fontes:
-Video Youtube: https://youtu.be/LRPOZrjwShk
+### Fontes:
+Video Youtube - Canal Gamera: https://youtu.be/LRPOZrjwShk
