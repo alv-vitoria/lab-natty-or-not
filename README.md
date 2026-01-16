@@ -1,51 +1,30 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C258D,100:4389A2&height=180&section=header&text=%20Resumo%20em%20Áudio:%20Tecnologia%20e%20%20Imersão%20na%20Realidade%20Virtual&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="banner"/>
+</p>
+<p align="center">
+  Uma análise crítica gerada por IA sobre imersão, movimento e limites da Realidade Virtual
+</p>
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto apresenta um resumo crítico em áudio sobre um vídeo que discute os desafios da locomoção na realidade virtual, com foco em periféricos de jogos e soluções tecnológicas para imersão em espaços físicos limitados. O conteúdo foi gerado com o apoio de IA generativa, buscando uma narração natural, acessível e envolvente.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **Google NotebookLM** para análise de conteúdo e geração do resumo;
+- **IA Generativa (Text-to-Speech)** para conversão do roteiro em áudio;
+- **GitHub** para versionamento e apresentação do projeto.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Inicialmente, foi fornecida ao NotebookLM a URL de um vídeo sobre periféricos de realidade virtual. A IA analisou o conteúdo e gerou um resumo estruturado. Em seguida, refinei o texto com foco em crítica e fluidez para áudio, direcionando o tom para um público gamer e entusiasta de tecnologia. Por fim, utilizei uma ferramenta de síntese de voz para transformar o roteiro em um resumo em áudio.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado final é um áudio curto, com tom crítico e linguagem natural, que resume os principais pontos do vídeo original e discute as limitações e possibilidades das tecnologias de realidade virtual atuais.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+🎧 **Arquivo de áudio:**  
+[Ouvir resumo em áudio](conteudo/Enganando_o_Cerebro_Para_Andar_em_VR.mp3)
 
-### Exemplos e Insigths
+## 💭 Reflexão
+Criar um conteúdo “natty” com IA exigiu mais do que apenas gerar texto automaticamente. Foi necessário orientar bem a IA, ajustar o tom e pensar no público final, mostrando que a qualidade do resultado depende diretamente da forma como interagimos com as ferramentas generativas.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+### Fontes:
+Video Youtube - Canal Gamera: https://youtu.be/LRPOZrjwShk
