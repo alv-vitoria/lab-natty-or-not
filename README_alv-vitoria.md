@@ -15,7 +15,7 @@ Inicialmente, foi fornecida ao NotebookLM a URL de um vídeo sobre periféricos 
 O resultado final é um áudio curto, com tom crítico e linguagem natural, que resume os principais pontos do vídeo original e discute as limitações e possibilidades das tecnologias de realidade virtual atuais.
 
 🎧 **Arquivo de áudio:**  
-[Adicionar aqui o link ou arquivo do áudio]
+[Ouvir resumo em áudio](conteudo/Enganando_o_Cerebro_Para_Andar_em_VR.mp3)
 
 ## 💭 Reflexão
 Criar um conteúdo “natty” com IA exigiu mais do que apenas gerar texto automaticamente. Foi necessário orientar bem a IA, ajustar o tom e pensar no público final, mostrando que a qualidade do resultado depende diretamente da forma como interagimos com as ferramentas generativas.
